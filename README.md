@@ -8,13 +8,13 @@
 [XJIMI](https://github.com/xjimi/app_imuker/blob/main/README.md)    
 曾經在「音樂」類中排名第 2  
 免費    
-<img src="logo.png" width = "200" alt="" />
+<img src="empty.png" width = "200" alt="" />
 
 
 ## iPhone 截圖
- <img src="000.png" width = "200" alt="" align=left/>
+ <img src="000.png" width = "200" alt="" align=left />
  <img src="001.png" width = "200" alt="" align=left />
- <img src="002.png" width = "200" alt="" align=left/>
+ <img src="002.png" width = "200" alt="" align=left />
  <img src="003.png" width = "200" alt="" />
 
 
