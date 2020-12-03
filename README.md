@@ -22,12 +22,12 @@
  <img src="005.png" width = "200" alt="" />
 
 ## 介紹 截圖
- <img src="foru.jpg" width = "400" alt="" align=left />
- <img src="explore.jpg" width = "400" alt="" align=left />
- <img src="player.jpg" width = "400" alt="" align=left />
- <img src="search.jpg" width = "400" alt="" align=left />
- <img src="library.jpg" width = "400" alt="" align=left />
- <img src="detail.jpg" width = "400" alt="" align=left />
+ <img src="foru.jpg" width = "300" alt="" align=left />
+ <img src="explore.jpg" width = "300" alt="" align=left />
+ <img src="player.jpg" width = "300" alt="" align=left />
+ <img src="search.jpg" width = "300" alt="" align=left />
+ <img src="library.jpg" width = "300" alt="" align=left />
+ <img src="detail.jpg" width = "300" alt="" />
 
 
 ## 簡介
