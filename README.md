@@ -2,13 +2,12 @@
 ```
 此 App 只能透過 iPhone 的 App Store 取得。
 ```
-## iMuker 音樂影片MV播放器 
+
+<img src="logo.png" width = "200" alt="" align=left />
+
 [XJIMI](https://github.com/xjimi/app_imuker/blob/main/README.md)    
 曾經在「音樂」類中排名第 2  
 免費    
-
-<img src="logo.png" width = "200" alt="" />   
-  
 
 ## iPhone 截圖
  <img src="000.png" width = "200" alt="" align=left />
@@ -22,12 +21,12 @@
  <img src="005.png" width = "200" alt="" />
 
 ## 介紹 截圖
- <img src="foru.jpg" width = "300" alt="" align=left />
- <img src="explore.jpg" width = "300" alt="" align=left />
- <img src="player.jpg" width = "300" alt="" align=left />
- <img src="search.jpg" width = "300" alt="" align=left />
- <img src="library.jpg" width = "300" alt="" align=left />
- <img src="detail.jpg" width = "300" alt="" />
+ <img src="foru.jpg" width = "500" alt="" />
+ <img src="explore.jpg" width = "500" alt="" />
+ <img src="player.jpg" width = "500" alt="" />
+ <img src="search.jpg" width = "500" alt="" />
+ <img src="library.jpg" width = "500" alt="" />
+ <img src="detail.jpg" width = "500" alt="" />
 
 
 ## 簡介
