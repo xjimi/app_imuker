@@ -14,12 +14,21 @@
  <img src="000.png" width = "200" alt="" align=left />
  <img src="001.png" width = "200" alt="" align=left />
  <img src="002.png" width = "200" alt="" />
- 
+  <img src="003.png" width = "200" alt="" align=left />
+
 
 ## iPhone 截圖
- <img src="003.png" width = "200" alt="" align=left />
  <img src="004.png" width = "200" alt="" align=left />
  <img src="005.png" width = "200" alt="" />
+
+## 介紹 截圖
+ <img src="foru.jpg" width = "400" alt="" align=left />
+ <img src="explore.jpg" width = "400" alt="" align=left />
+ <img src="player.jpg" width = "400" alt="" align=left />
+ <img src="search.jpg" width = "400" alt="" align=left />
+ <img src="library.jpg" width = "400" alt="" align=left />
+ <img src="detail.jpg" width = "400" alt="" align=left />
+
 
 ## 簡介
 
@@ -42,3 +51,6 @@
 • 強大搜尋引擊，整合 YouTube, iTunes, Apple Music, KKBOX 資訊，為你找尋最合適的音樂。  
 
 • 時尚俐落又人性的介面，使你聽音樂不只方便。  
+
+
+
